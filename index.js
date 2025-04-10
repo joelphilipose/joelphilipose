@@ -7,4 +7,4 @@ function joelFunFact(){
         },
     ];
 }
-joelFunFact
+joelFunFact();
