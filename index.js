@@ -2,7 +2,7 @@ function joelFunFact(){
     const participants=[
         {
             name: "Joel",
-            funFact: "I like basketball"
+            funFact: "I like football"
 
         },
     ];
